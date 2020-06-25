@@ -80,6 +80,7 @@ h1{
     padding:10px;
     background-color: crimson;
     color:white;
+    outline : 0;
 }
 .submit:hover{
     background-color: teal;
